@@ -41,7 +41,7 @@
     "precompute": "cd gen && ts-node precompute-all.ts",
     "colyseus-post-deploy": "npx colyseus-post-deploy",
     "update-live": "pm2 deploy production update",
-    "update-live-vultr": "pm2 deploy production update",
+    "update-live-vultr": "pm2 deploy vultr update",
     "setup-live": "pm2 deploy production setup"
   },
   "dependencies": {
