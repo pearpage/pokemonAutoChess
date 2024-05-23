@@ -345,10 +345,10 @@ export const FIGHTING_PHASE_DURATION = 40000
 export const ITEM_CAROUSEL_BASE_DURATION = 15000
 export const PORTAL_CAROUSEL_BASE_DURATION = 20000
 
-export const ItemCarouselStages = [4, 12, 17, 22, 27, 34]
-export const ItemProposalStages = [3, 15]
-export const AdditionalPicksStages = [5, 8, 11]
-export const PortalCarouselStages = [10, 20]
+export const ItemCarouselStages = [5, 12, 17, 22, 27, 34]
+export const ItemProposalStages = [4, 15]
+export const AdditionalPicksStages = [6, 8, 11]
+export const PortalCarouselStages = [2, 3]
 
 export enum EloRank {
   BEGINNER = "BEGINNER",
