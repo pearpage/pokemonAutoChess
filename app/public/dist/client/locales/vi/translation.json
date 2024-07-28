@@ -1,0 +1,9 @@
+{
+  "damage": {
+    "PHYSICAL": "Sát thương vật lý"
+  },
+  "ability": {
+    "EARTHQUAKE": "Rung chấn",
+    "RELIC_SONG": "Giai điệu của thánh tích"
+  }
+}
