@@ -76,6 +76,9 @@
     "BUG_BUZZ": "벌레의야단법석",
     "STRING_SHOT": "실뿜기"
   },
+  "pkm": {
+    "GARDEVOIR": "Gardevoir"
+  },
   "ability_description": {
     "SUPER_FANG": "현재 대상에게 [30,60,90,SP] SPECIAL. GRASS 에게는 두배의 데미지"
   }
