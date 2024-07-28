@@ -4,6 +4,12 @@
   },
   "ability": {
     "EARTHQUAKE": "Rung chấn",
-    "RELIC_SONG": "Giai điệu của thánh tích"
+    "RELIC_SONG": "Giai điệu của thánh tích",
+    "BURN": "Thiêu đốt",
+    "WHEEL_OF_FIRE": "Xoáy lửa",
+    "LUNAR_BLESSING": "Phước lành của ánh trăng",
+    "TELEPORT": "Dịch chuyển",
+    "HURRICANE": "Cuồng phong",
+    "DIAMOND_STORM": "Bão kim cương"
   }
 }
