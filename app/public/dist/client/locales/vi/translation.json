@@ -21,5 +21,23 @@
     "TELEPORT": "Dịch chuyển",
     "HURRICANE": "Cuồng phong",
     "DIAMOND_STORM": "Bão kim cương"
+  },
+  "pkm": {
+    "SILVALLY": "Silvally",
+    "SILVALLY_FIRE": "Silvally (Lửa)",
+    "SILVALLY_WATER": "Silvally (Nước)",
+    "SILVALLY_ELECTRIC": "Silvally (Điện)",
+    "SILVALLY_FAIRY": "Silvally (Tiên)",
+    "SILVALLY_DARK": "Silvally (Bóng tối)",
+    "SILVALLY_GRASS": "Silvally (Cỏ)",
+    "SILVALLY_ICE": "Silvally (Băng)",
+    "SILVALLY_LIGHT": "Silvally (Ánh sáng)",
+    "SILVALLY_POISON": "Silvally (Độc)",
+    "SILVALLY_SOUND": "Silvally (Âm thanh)",
+    "SILVALLY_STEEL": "Silvally (Thép)",
+    "SILVALLY_FLYING": "Silvally (Bay)",
+    "SILVALLY_ROCK": "Silvally (Đá)",
+    "SILVALLY_GROUND": "Silvally (Đất)",
+    "SILVALLY_GHOST": "Silvally (Ma)"
   }
 }
